@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1666550617 source:c:\users\samethan\desktop\c project\prolab1_son\main.c
+	<stdio.h>
+	<stdlib.h>
+	<dirent.h>
+	<string.h>
+	<locale.h>
+	<time.h>
+
+1666550617 source:c:\users\samethan\desktop\c_project\prolab1_son\main.c
+	<stdio.h>
+	<stdlib.h>
+	<dirent.h>
+	<string.h>
+	<locale.h>
+	<time.h>
+

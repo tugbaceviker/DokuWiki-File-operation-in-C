@@ -1,0 +1,90 @@
+Etiket Adi       Etiket yolu                                                      Etiket indisi
+Programlama_I   C:/Users/samethan/Desktop/universite/ogretim_elemanlari/Burak Ýnner.txt     44
+Matematik_I   C:/Users/samethan/Desktop/universite/bolumler/Bilgisayar Mühendisliði.txt     24
+Programlama_I   C:/Users/samethan/Desktop/universite/bolumler/Bilgisayar Mühendisliði.txt     42
+Â®"wMat   C:/Users/samethan/Desktop/universite/bolumler/Bilgisayar Mühendisliði.txt     84
+Programlama_II   C:/Users/samethan/Desktop/universite/bolumler/Bilgisayar Mühendisliði.txt     98
+Nesneye YÃ¶nelik Programlama   C:/Users/samethan/Desktop/universite/bolumler/Bilgisayar Mühendisliði.txt     136
+GÃ¶rsel Programlama   C:/Users/samethan/Desktop/universite/bolumler/Bilgisayar Mühendisliði.txt     171
+VeritabanÄ±YÃ¶netimi   C:/Users/samethan/Desktop/universite/bolumler/Bilgisayar Mühendisliði.txt     196
+Ä°ngilizce_I   C:/Users/samethan/Desktop/universite/bolumler/Endüstri Mühendisliði.txt     24
+Yoneylem   C:/Users/samethan/Desktop/universite/bolumler/Endüstri Mühendisliði.txt     43
+Ä°ngilizce_II   C:/Users/samethan/Desktop/universite/bolumler/Endüstri Mühendisliði.txt     80
+Uretim Planlama Kontrol   C:/Users/samethan/Desktop/universite/bolumler/Endüstri Mühendisliði.txt     100
+Nesneye YÃ¶nelik Programlama   C:/Users/samethan/Desktop/universite/bolumler/Endüstri Mühendisliði.txt     147
+GÃ¶rsel Programlama   C:/Users/samethan/Desktop/universite/bolumler/Endüstri Mühendisliði.txt     182
+VeritabanÄ±YÃ¶netimi   C:/Users/samethan/Desktop/universite/bolumler/Endüstri Mühendisliði.txt     207
+Organik Kimya   C:/Users/samethan/Desktop/universite/bolumler/Kimya Mühendisliði.txt     24
+Ä°ngilizce_II   C:/Users/samethan/Desktop/universite/bolumler/Kimya Mühendisliði.txt     80
+Yoneylem   C:/Users/samethan/Desktop/universite/bolumler/Kimya Mühendisliði.txt     117
+GÃ¶rsel Programlama   C:/Users/samethan/Desktop/universite/bolumler/Kimya Mühendisliði.txt     132
+Uretim Planlama Kontrol   C:/Users/samethan/Desktop/universite/bolumler/Kimya Mühendisliði.txt     157
+Matematik_I   C:/Users/samethan/Desktop/universite/bolumler/Yazýlým Mühendisliði.txt     24
+Programlama_I   C:/Users/samethan/Desktop/universite/bolumler/Yazýlým Mühendisliði.txt     42
+Â®"wMat   C:/Users/samethan/Desktop/universite/bolumler/Yazýlým Mühendisliði.txt     84
+Programlama_II   C:/Users/samethan/Desktop/universite/bolumler/Yazýlým Mühendisliði.txt     98
+Nesneye YÃ¶nelik Programlama   C:/Users/samethan/Desktop/universite/bolumler/Yazýlým Mühendisliði.txt     136
+GÃ¶rsel Programlama   C:/Users/samethan/Desktop/universite/bolumler/Yazýlým Mühendisliði.txt     171
+VeritabanÄ±YÃ¶netimi   C:/Users/samethan/Desktop/universite/bolumler/Yazýlým Mühendisliði.txt     196
+Ä°statistik   C:/Users/samethan/Desktop/universite/bolumler/Yazýlým Mühendisliði.txt     222
+Matematik_I   C:/Users/samethan/Desktop/universite/bolumler/Çevre Mühendisliði.txt     24
+Ã‡evre DÃ¼zenleme   C:/Users/samethan/Desktop/universite/bolumler/Çevre Mühendisliði.txt     42
+Mat   C:/Users/samethan/Desktop/universite/bolumler/Çevre Mühendisliði.txt     88
+Programlama_II   C:/Users/samethan/Desktop/universite/bolumler/Çevre Mühendisliði.txt     98
+Ä°ngilizce   C:/Users/samethan/Desktop/universite/bolumler/Çevre Mühendisliði.txt     136
+GÃ¶rsel Programlama   C:/Users/samethan/Desktop/universite/bolumler/Çevre Mühendisliði.txt     153
+VeritabanÄ±YÃ¶netimi   C:/Users/samethan/Desktop/universite/bolumler/Çevre Mühendisliði.txt     178
+Ahmet ERDÄ°L   C:/Users/samethan/Desktop/universite/dersler/Matematik_I.txt     90
+Ahmet ERDÄ°L   C:/Users/samethan/Desktop/universite/dersler/Matematik_II.txt     91
+Hikmet Hakan GÃœREL   C:/Users/samethan/Desktop/universite/dersler/Matematik_II.txt     172
+Matematik I   C:/Users/samethan/Desktop/universite/dersler/Matematik_II.txt     655
+Ahmet ERDÄ°L   C:/Users/samethan/Desktop/universite/dersler/NesneyeYönelikProgramlama.txt     117
+Ahmet SAYAR   C:/Users/samethan/Desktop/universite/dersler/NesneyeYönelikProgramlama.txt     198
+Hikmet Hakan GÃœREL   C:/Users/samethan/Desktop/universite/dersler/NesneyeYönelikProgramlama.txt     284
+GÃ¶rsel Programlama   C:/Users/samethan/Desktop/universite/dersler/NesneyeYönelikProgramlama.txt     777
+Programlama I   C:/Users/samethan/Desktop/universite/dersler/Programlama_I.txt     53
+Ahmet ERDÄ°L   C:/Users/samethan/Desktop/universite/dersler/Programlama_I.txt     106
+Ahmet SAYAR   C:/Users/samethan/Desktop/universite/dersler/Programlama_I.txt     187
+Hikmet Hakan GÃœREL   C:/Users/samethan/Desktop/universite/dersler/Programlama_I.txt     273
+Alev MUTLU   C:/Users/samethan/Desktop/universite/dersler/Programlama_I.txt     375
+Ahmet ERDÄ°L   C:/Users/samethan/Desktop/universite/dersler/Programlama_II.txt     93
+Programlama I   C:/Users/samethan/Desktop/universite/dersler/Programlama_II.txt     163
+Yetim Etiket Adi
+Â®"wMat  
+Nesneye YÃ¶nelik Programlama  
+GÃ¶rsel Programlama  
+VeritabanÄ±YÃ¶netimi  
+Ä°ngilizce_I  
+Ä°ngilizce_II  
+Uretim Planlama Kontrol  
+Nesneye YÃ¶nelik Programlama  
+GÃ¶rsel Programlama  
+VeritabanÄ±YÃ¶netimi  
+Organik Kimya  
+Ä°ngilizce_II  
+GÃ¶rsel Programlama  
+Uretim Planlama Kontrol  
+Â®"wMat  
+Nesneye YÃ¶nelik Programlama  
+GÃ¶rsel Programlama  
+VeritabanÄ±YÃ¶netimi  
+Ä°statistik  
+Ã‡evre DÃ¼zenleme  
+Ä°ngilizce  
+GÃ¶rsel Programlama  
+VeritabanÄ±YÃ¶netimi  
+Ahmet ERDÄ°L  
+Ahmet ERDÄ°L  
+Hikmet Hakan GÃœREL  
+Matematik I  
+Ahmet ERDÄ°L  
+Ahmet SAYAR  
+Hikmet Hakan GÃœREL  
+GÃ¶rsel Programlama  
+Programlama I  
+Ahmet ERDÄ°L  
+Ahmet SAYAR  
+Hikmet Hakan GÃœREL  
+Alev MUTLU  
+Ahmet ERDÄ°L  
+Programlama I  
